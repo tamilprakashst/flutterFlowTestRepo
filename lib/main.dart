@@ -69,7 +69,6 @@ class _MyAppState extends State<MyApp> {
       themeMode: _themeMode,
       routeInformationParser: _router.routeInformationParser,
       routerDelegate: _router.routerDelegate,
-      debugShowCheckedModeBanner:false,
     );
   }
 }
